@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background: url('/mnt/data/ezgif.com-crop.gif') no-repeat center center fixed;
+  background-size: cover;
+  /* This will ensure the GIF fills the screen and stays fixed as the page scrolls */
+}
